@@ -68,8 +68,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://static.turtle-coding-gbr.de/archives/turtlements/1.0.6+44.tar.gz",
-          "sha256": "90fa16a90d4ea3a4202eef05750f3a7f6fff84e80abf985a757956c1eddafc29",
+          "url": "https://static.turtle-coding-gbr.de/archives/turtlements/1.0.6+45.tar.gz",
+          "sha256": "c4fec05897f2cd2e7dc6de5f740e8e38940f72d62a6e1c687eeacc1ebce083fe",
           "strip-components": 0,
           "only-arches": [
             "x86_64"
